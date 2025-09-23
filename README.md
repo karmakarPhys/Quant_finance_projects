@@ -1,4 +1,4 @@
-**Markowitz.py: **
+**Markowitz.py**
 
 This script demonstrates the advantages of a diversified portfolio with shares of various stocks. One can change the stocks they want to include in the portfolio 
 by modifying the line: stocks = ['AAPL', 'WMT', 'TSLA', 'GE', 'AMZN', 'DB']. It downloads the dataset from YahooFinance the start and end date of which can be
