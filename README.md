@@ -1,4 +1,4 @@
-** Basket_option.ipynb**
+**Basket_option.ipynb**
 
 Calculates the prices of Asian and European options on baskets of correlated assets using moment matching and MC. 
 
