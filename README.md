@@ -1,3 +1,7 @@
+** Basket_option.ipynb**
+
+Calculates the prices of Asian and European options on baskets of correlated assets using moment matching and MC. 
+
 **bs-pde2.ipynb**
 
 Solves the Black-Scholes equation for a European call option on a single underlier, using the explicit finite difference method. 
